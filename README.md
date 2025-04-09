@@ -12,7 +12,7 @@ This project analyzes the usage patterns of electric vehicle (EV) charging stati
 Synthetic dataset with station details, charger types, and usage logs.
 
 ## 🔍 Insights
-- Highest used stations and charger types
+- Highest-used stations and charger types
 - Usage trends by day and time
 - Energy consumption metrics
 
