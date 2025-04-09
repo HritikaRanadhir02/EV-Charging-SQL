@@ -1,0 +1,4 @@
+station_id,name,city,state,latitude,longitude
+1,EV Station A,San Francisco,CA,37.7749,-122.4194
+2,EV Station B,Los Angeles,CA,34.0522,-118.2437
+3,EV Station C,Austin,TX,30.2672,-97.7431

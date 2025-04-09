@@ -1,0 +1,3 @@
+charger_id,type,power_output_kW
+1,Level 2,7.2
+2,DC Fast,50.0
